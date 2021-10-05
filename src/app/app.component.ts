@@ -43,4 +43,5 @@ export class AppComponent {
     "animalIMG": faker.image.technics(),
     "lorem": faker.lorem.paragraph(1)
   }]
+  title = "fakerAPI";
 }
